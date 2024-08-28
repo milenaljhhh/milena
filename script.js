@@ -34,7 +34,7 @@ const alternativas = [
     },
     {
         enunciado: "No âmbito tecnológico, você prefere:",
-        alternativa: [ "ajudar milhares de pessoas com uma tecnologia que pssibiltaria ninguyem mais passa fome, ou lucrar com essa tecnolgia que so beneficiaria voce, e quem você quiser"
+        alternativa: [ 
             {
                 texto: "alunos de escolas não estão conseguindo acessar um site da escola para realizar uma atividade, mas voce tem a solução tecnológica para o problema,",
                 afirmacao: "voce prefere ajudar elas, ou não, e com iss só voce se beneficiaria nessa situação"
